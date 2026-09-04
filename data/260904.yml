@@ -1,22 +1,24 @@
 about:
-  description: Run a task with AI as a flow of steps you keep, reuse, and refine, not a one-off chat.
+  description:
+  |
+    Run a task with AI as a flow of steps you keep, reuse, and refine, not a one-off chat.
   license: MIT
   homepage: https://morphmind.ai
   head: 1571c76
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T05:08:01Z
+  collectedAt: 2026-09-04T19:17:55Z
 timeline:
   created: 2026-05-09
   lastCommit: 2026-06-09
-  lastRelease: ?
+  lastRelease: 
 popularity:
-  star: 490
+  star: 488
   watcher: 5
   fork: 33
   release: 0
   contributor: 4
-  pullRequest: 1
+  pullRequest: 8
   issue: 4
 language:
   TypeScript: 474926
@@ -28,10 +30,18 @@ language:
   CSS: 13016
   JavaScript: 3189
   Jinja: 1183
-totalLine: 1073944
+totalBytes: 1073944
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -62,3 +72,21 @@ recent:
     closedIssue: 1
     openIssue: 3
     commit: 19
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 1
+    openIssue: 3
+    commit: 24
+total:
+  release: 0
+  mergedPR: 7
+  openPR: 0
+  closedIssue: 1
+  openIssue: 3
+  commit: 24
+---
+---
+
