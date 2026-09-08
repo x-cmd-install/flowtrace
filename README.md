@@ -1,6 +1,24 @@
----
-owner-repo: AIScientists-Dev/flowtrace
-desc: Run a task with AI as a flow of steps you keep, reuse, and refine, not a one-off chat.
----
-
 # flowtrace
+
+Run a task with AI as a flow of steps you keep, reuse, and refine, not a one-off chat.
+
+- **Upstream**: <https://github.com/AIScientists-Dev/flowtrace>
+- **Homepage**: <https://morphmind.ai>
+- **Latest release**: `` (n/a)
+- **Last commit**: 2026-06-09
+- **License**: MIT
+- **Stars**: 488 · **Forks**: 33 · **Open issues**: 4 · **Contributors**: 4
+
+## Installation
+
+```sh
+x install flowtrace
+```
+
+See <https://x-cmd.com/install/flowtrace> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:02:58Z._
