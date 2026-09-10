@@ -4,7 +4,7 @@
 
 Run a task with AI as a flow of steps you keep, reuse, and refine, not a one-off chat.
 
-![flowtrace](https://repo.x-cmd.io/flowtrace.svg)
+![flowtrace](https://repo.x-cmd.io/flowtrace.svg?lang=zh)
 
 ## 安装
 
@@ -20,7 +20,7 @@ x install flowtrace
 
 ## 流行度
 
-- **Star**: 487 · **Fork**: 33 · **开放 issue**: 4 · **贡献者**: 4
+- **Star**: 486 · **Fork**: 33 · **开放 issue**: 4 · **贡献者**: 4
 
 ## 累计统计
 
@@ -55,4 +55,4 @@ flowtrace 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:58:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:21Z._
