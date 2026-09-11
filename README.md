@@ -12,6 +12,18 @@ Run a task with AI as a flow of steps you keep, reuse, and refine, not a one-off
 x install flowtrace
 ```
 
+## Code insight
+
+Total: **37,837** lines of code across **297** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 14,837 | 0 | 0 | 137 |
+| Tsx | 9,247 | 476 | 850 | 67 |
+| Rust | 5,247 | 172 | 431 | 32 |
+| Sh | 3,095 | 690 | 364 | 24 |
+| TypeScript | 2,538 | 520 | 380 | 37 |
+
 ## Source
 
 - **Upstream**: <https://github.com/AIScientists-Dev/flowtrace>
@@ -30,21 +42,12 @@ x install flowtrace
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-15 | 0 | 7 | 0 | 1 | 3 | 19 |
-
-## Code size
-
-Total: **37,837** lines of code across **297** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 14,837 | 0 | 0 | 137 |
-| Tsx | 9,247 | 476 | 850 | 67 |
-| Rust | 5,247 | 172 | 431 | 32 |
-| Sh | 3,095 | 690 | 364 | 24 |
-| TypeScript | 2,538 | 520 | 380 | 37 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-15 | 0 | 7 | 0 | 1 | 3 | 19 |
+| 360d | 2025-09-16 | 0 | 7 | 0 | 1 | 3 | 19 |
+| last720d | 2024-09-21 | 0 | 7 | 0 | 1 | 3 | 24 |
 
 ## Improve this data
 
@@ -55,4 +58,4 @@ Install metadata for flowtrace lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:47Z._
